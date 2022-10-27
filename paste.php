@@ -54,6 +54,11 @@ if (isset($_POST['text'])) {
             background: #555;
         }
 
+        a:link, a:visited {
+            color: #38488f;
+            text-decoration: none;
+        }
+
         /* top */
         #topbtn {
             display: none;
