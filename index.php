@@ -224,6 +224,11 @@ if ($dirSize == 0) {
             background-color: #555;
         }
 
+        a:link, a:visited {
+            color: #38488f;
+            text-decoration: none;
+        }
+
         /* table */
         th {
             background-color: #aaaaaa;
